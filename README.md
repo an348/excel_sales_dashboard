@@ -37,6 +37,6 @@ The dataset includes:
 - Amazon contributes the largest share of total orders.
 
 ## 💼 Author
-**Anshika Dwivedi**  
+**Anshika Dwivedi**
 📧 Email: dwivedianshika526@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/anshika-dwivedi)
+🔗 [LinkedIn]https://www.linkedin.com/in/anshika-dwivedi-6b00b4207/edit/intro/?profileFormEntryPoint=PROFILE_SECTION&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bd319o4mNTiq917XTfSJ5Iw%3D%3D
